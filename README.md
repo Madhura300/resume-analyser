@@ -1,12 +1,8 @@
 
-# 📄 README.md (Resume Analyzer Project)
-
-```md
+# (Resume Analyzer Project)
 # Resume Analyzer
 
 A web-based Resume Analyzer built using React and Vite that compares a candidate’s resume with a job description and provides a match score, keyword analysis, and improvement suggestions.
-
----
 
 ## 🚀 Features
 
@@ -19,8 +15,6 @@ A web-based Resume Analyzer built using React and Vite that compares a candidate
 - Smart suggestions to improve resume relevance
 - Clean and responsive UI
 
----
-
 ## 🛠️ Tech Stack
 
 - React.js
@@ -31,11 +25,7 @@ A web-based Resume Analyzer built using React and Vite that compares a candidate
 - mammoth.js (DOCX parsing)
 - react-dropzone (file upload)
 
----
-
 ## 📁 Project Structure
-
-```
 
 src/
 │── components/
@@ -52,10 +42,6 @@ src/
 │── main.jsx
 │── App.css
 
-````
-
----
-
 ## ⚙️ How It Works
 
 1. User uploads resume (PDF/DOCX/TXT)
@@ -69,16 +55,12 @@ src/
    - Missing keywords
    - Improvement suggestions
 
----
-
 ## 📊 Output
 
 - Match Score (%)
 - Matched Keywords List
 - Missing Keywords List
 - Resume Improvement Suggestions
-
----
 
 ## 💡 Future Improvements
 
