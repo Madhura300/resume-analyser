@@ -26,7 +26,9 @@ A web-based Resume Analyzer built using React and Vite that compares a candidate
 - react-dropzone (file upload)
 
 ## 📁 Project Structure
+## 📁 Project Structure
 
+```bash
 src/
 │── components/
 │   ├── Dropzone.jsx
@@ -41,7 +43,7 @@ src/
 │── App.jsx
 │── main.jsx
 │── App.css
-
+```
 ## ⚙️ How It Works
 
 1. User uploads resume (PDF/DOCX/TXT)
