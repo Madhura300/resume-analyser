@@ -1,5 +1,4 @@
-
-# (Resume Analyzer Project)
+## ResumeMatch AI
 # Resume Analyzer
 
 A web-based Resume Analyzer built using React and Vite that compares a candidate’s resume with a job description and provides a match score, keyword analysis, and improvement suggestions.
